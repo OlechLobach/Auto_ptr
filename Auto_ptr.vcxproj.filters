@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="main">
+      <UniqueIdentifier>{565cf1df-31e2-4d68-a5e5-b068b3eef0a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="autoPtr">
+      <UniqueIdentifier>{14a6df6c-09ab-4a0d-9680-090178dcb975}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="autoPtr.h">
+      <Filter>autoPtr</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
